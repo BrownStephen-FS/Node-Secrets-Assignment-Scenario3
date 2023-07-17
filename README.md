@@ -1,1 +1,1 @@
-## Use dont-tell-anyone as the key for this app
+## Use "dont-tell-anyone" as the key for this app
